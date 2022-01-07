@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">02-ValidacaoCampos</string>
+
+    <string name="titulo">IFood Entregador</string>
+    <string name="subTitulo">Faca o login ou cadastre-se</string>
+    <string name="digite_o_email">Digite o Email</string>
+    <string name="digite_a_senha">Digite a Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="registrar">Registrar</string>
+    <string name="bem_vindo_entregador_ifood">Bem Vindo Entregador IFood</string>
+    <string name="digite_seus_dados_pessoais">Digite seus dados pessoais</string>
+    <string name="nome">Nome</string>
+    <string name="cpf">CPF</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">Email</string>
+    <string name="salvar">Salvar</string>
+    <string name="Txt_termoUso">Li e Concordo com os termos de uso.</string>
+
+
+</resources>
