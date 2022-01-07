@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
         spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
             public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
-                String text = spinner.getTransitionName().toString();
+                String text = spinner.getSelectedItem().toString();
                 editText.setText(text);
                 cpf = editText.getText().toString().replace(".", "")
                         .replace(" ", "")

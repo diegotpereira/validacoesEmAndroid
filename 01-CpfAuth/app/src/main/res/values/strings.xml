@@ -1,6 +1,15 @@
 <resources>
     <string name="app_name">01-CPFAuth</string>
 
+    <string name="regular">regular</string>
+    <string name="suspensa">suspensa</string>
+    <string name="pendente_regul">pendente de regularização</string>
+    <string name="cancelada_mult">cancelada por multiplicidade</string>
+    <string name="nula">nula</string>
+    <string name="cancelada_ofic">cancelada de ofício</string>
+    <string name="falecido">titular falecido</string>
+    <string name="invalido">invalido</string>
+
     <string-array name="linguagens">
 
         <!--CPF Regular-->
